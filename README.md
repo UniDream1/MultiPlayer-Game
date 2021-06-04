@@ -9,5 +9,4 @@
   
 # Frame.java
   
-  GUI for Interaction with operators.
- 
+  GUI for operating the Server
